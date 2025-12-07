@@ -1,2 +1,2 @@
-Go
-Devops - SDLC
+1. Go
+2. Devops - SDLC
